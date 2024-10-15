@@ -97,12 +97,7 @@ public class C04B_Info extends JPanel implements ActionListener {
 				+ "\nAutores:\n"
 				+ "· Manuel Carro\n"
 				+ "· Simón Souto\n"
-				+ "· Carlos Iglesias\n"
-				+ "\n"
-				+ "Contacto:\n"
-				+ "· Manuel: manuelcarro1997@gmail.com\n"
-				+ "· Simón: simonsoutodopazo@gmail.com\n"
-				+ "· Carlos: cacoiglesias11@gmail.com\n");
+				+ "· Carlos Iglesias\n");
 		jtFuente.setBounds(119, 119, 411, 530);
 		jtFuente.setFont(sizeFont);
 		jtFuente.setEditable(false);
