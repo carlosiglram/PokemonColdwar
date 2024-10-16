@@ -1,6 +1,7 @@
 # Pokémon Coldwar
-#### Juego desarrollado como práctica de un ciclo formativo superior de Desarrollo de Aplicaciones Multiplataforma.
-<br/><br/>
+#### Juego desarrollado como práctica de un ciclo formativo superior de Desarrollo de Aplicaciones Multiplataforma.<br/>
+<br/>
+
 #### 📜 Información general
 La base y reglas del juego fueron establecidas por el profesor. Se realizó una primera versión del juego en la que las partidas se desarrollaban mediante la consola del IDE. Para su segunda versión, se creó toda la interfaz gráfica inspirada en los juegos de Pokémon.
 
