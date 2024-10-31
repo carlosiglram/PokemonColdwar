@@ -3,7 +3,9 @@
 <br/>
 
 #### 📜 Información general
-La base y reglas del juego fueron establecidas por el profesor. Se realizó una primera versión del juego en la que las partidas se desarrollaban mediante la consola del IDE. Para su segunda versión, se creó toda la interfaz gráfica inspirada en los juegos de Pokémon.
+El proyecto consiste en el desarrollo de un juego mediante Java y Java Swing.
+
+La base y reglas fueron establecidas por el profesor. Se realizó una primera versión del juego en la que las partidas se desarrollaban mediante la consola del IDE. Para su segunda versión, se creó toda la interfaz gráfica inspirada en los juegos de Pokémon.
 
 El proyecto fue desarrollado de manera conjunta con otros dos compañeros de clase, Manuel Carro y Simón Souto.
 <br/><br/>
